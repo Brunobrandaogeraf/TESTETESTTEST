@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+##BRUNO-DEV
+<br>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# *SEE-IEF*
+<br>
+Olá, meu nome é **Bruno**!
 
-## Commands
+Sou servidor do estado a *13 anos*, na Secretaria de Educação por 7 e cedido ao IEF a 6 anos. **Trabalho com analise de processos e fazendo auditoria de cálculos e estou aprendendo sobre tecnologia**.Meu objetivo neste intercambio e aprender o máximo que puder para automatizar e otimizar o serviço público, assim prestando um trabalho de qualidade para a população.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[Veja meu perfil no github](https://github.com/Brunobrandaogeraf)
+<br><br>
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+#**O que estou aprendendo:**
+    
+- MELHORIA DE PROCESSOS  
+- GIT  
+- GITHUB  
+- COMANDOS DO TERMINAL  
+- POWER AUTOMATE DESKTOP  
+- POWER AUTOMATEWEB  
+<br><br>
+#**O que ainda vou aprender:**
+- Python
+- SQL
