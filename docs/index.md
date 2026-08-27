@@ -10,6 +10,7 @@ Sou servidor do estado a *13 anos*, na Secretaria de Educação por 7 e cedido a
 [Veja meu perfil no github](https://github.com/Brunobrandaogeraf)
 <br><br>
 
+![imagem_inicial](https://scansource.com.br/wp-content/webp-express/webp-images/uploads/2024/02/Imagem-Principal.jpg.webp)
 #**O que estou aprendendo:**
     
 - MELHORIA DE PROCESSOS  

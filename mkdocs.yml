@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: Bruno News
+site_url: https://mydomain.org/Bruno News
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: green
+    accent: deep purple
+    font:
+     text: Roboto
+     code: roboto mono
+
+plugins:
+  -blog
