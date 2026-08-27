@@ -1,14 +1,14 @@
 site_name: Bruno News
-site_url: ""
+site_url: https://mydomain.org/Bruno News
 theme:
   name: material
   palette:
     scheme: slate
-    primary: green
-    accent: deep purple
+    primary: deep-purple
+    accent: green
   font:
-    text: Roboto
-    code: roboto mono
+    text: roboto
+    code: roboto-mono
 
 plugins:
   - blog
