@@ -1,0 +1,14 @@
+site_name: Bruno News
+site_url: https://Brunobrandaogeraf.github.io/TESTETESTTEST/
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep-purple
+    accent: green
+  font:
+    text: roboto
+    code: roboto-mono
+
+plugins:
+  - blog
