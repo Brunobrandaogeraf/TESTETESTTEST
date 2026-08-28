@@ -1,45 +1,54 @@
-🚀 BRUNO-DEV
-SEE-IEF
+# 🚀 BRUNO-DEV
 
-Olá! Meu nome é Bruno.
+## SEE-IEF
 
-Sou servidor público estadual há 13 anos. Atuei por 7 anos na Secretaria de Estado de Educação e, há 6 anos, estou cedido ao Instituto Estadual de Florestas (IEF/MG).
+<br>
 
-Atualmente, trabalho com análise de processos, auditoria e conferência de cálculos, além de atuar na melhoria de fluxos e ferramentas utilizadas no serviço público.
+Olá! Meu nome é **Bruno**.
 
-Estou iniciando minha jornada na área de tecnologia e desenvolvimento, com foco em aprender como utilizar ferramentas de programação, automação e análise de dados para otimizar processos, reduzir tarefas manuais e aumentar a eficiência do trabalho público.
+Sou servidor público estadual há **13 anos**. Atuei por 7 anos na **Secretaria de Estado de Educação** e, há 6 anos, estou cedido ao **Instituto Estadual de Florestas (IEF/MG)**.
 
-🎯 Meu objetivo
+Atualmente, trabalho com **análise de processos, auditoria e conferência de cálculos**, além de atuar na melhoria de fluxos e procedimentos.
 
-Utilizar a tecnologia como ferramenta para transformar processos burocráticos em fluxos mais simples, rápidos, confiáveis e automatizados.
+Estou iniciando minha jornada na área de **tecnologia**, buscando aprender ferramentas de programação, automação e análise de dados que possam ser aplicadas à **melhoria e otimização do serviço público**.
 
-Neste intercâmbio, meu objetivo é aprender o máximo possível sobre tecnologia e desenvolvimento, buscando aplicar esse conhecimento na melhoria dos serviços prestados à população.
+Meu objetivo neste intercâmbio é **aprender o máximo possível sobre tecnologia e desenvolvimento**, buscando transformar atividades manuais e processos burocráticos em soluções mais **rápidas, eficientes e confiáveis**, contribuindo para a melhoria do serviço prestado à população.
 
-🔗 Veja meu perfil no GitHub
+<br>
 
-📚 O que estou aprendendo
+🔗 **[Veja meu perfil no GitHub](https://github.com/Brunobrandaogeraf)**
 
-Atualmente, estou desenvolvendo conhecimentos em:
+<br><br>
 
-🔄 Melhoria e otimização de processos
-🌿 Aplicação de tecnologia ao serviço público
-🔧 Git
-💻 GitHub
-⌨️ Comandos de Terminal
-⚡ Power Automate Desktop
-☁️ Power Automate Web
-🚀 Próximos conhecimentos
+![imagem_inicial](https://scansource.com.br/wp-content/webp-express/webp-images/uploads/2024/02/Imagem-Principal.jpg.webp)
 
-Minha próxima etapa de aprendizado será aprofundar conhecimentos em:
+<br>
 
-🐍 Python
-🗄️ SQL
-📊 Análise e tratamento de dados
-🤖 Automação de processos
-📈 Power BI
-🔄 Power Query
-💡 Visão
+# 📚 O que estou aprendendo:
 
-Tecnologia não deve apenas digitalizar processos. Deve eliminar etapas desnecessárias, reduzir erros e tornar o serviço público mais eficiente.
+- 🔄 **Melhoria e otimização de processos**
+- 🌿 **Tecnologia aplicada ao serviço público**
+- 🔧 **Git**
+- 🐙 **GitHub**
+- 💻 **Comandos do Terminal**
+- ⚡ **Power Automate Desktop**
+- ☁️ **Power Automate Web**
 
-Este projeto representa minha jornada de aprendizado e a busca por transformar problemas reais do dia a dia em soluções tecnológicas práticas.
+<br><br>
+
+# 🚀 O que ainda vou aprender:
+
+- 🐍 **Python**
+- 🗄️ **SQL**
+- 📊 **Power BI**
+- 🔄 **Power Query**
+- 🤖 **Automação de processos**
+
+<br><br>
+
+# 💡 Meu objetivo
+
+> **Utilizar a tecnologia para simplificar processos, reduzir tarefas manuais, diminuir erros e aumentar a eficiência do serviço público.**
+
+Este projeto representa minha **jornada de aprendizado em tecnologia** e minha busca por transformar problemas reais do dia a dia em **soluções tecnológicas práticas**.
+```
