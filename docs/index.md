@@ -1,4 +1,4 @@
-# 🚀 BRUNO-DEV
+# BRUNO-DEV
 
 ## SEE-IEF
 
@@ -24,7 +24,7 @@ Meu objetivo neste intercâmbio é **aprender o máximo possível sobre tecnolog
 
 <br>
 
-# 📚 O que estou aprendendo:
+## 📚 O que estou aprendendo:
 
 - 🔄 **Melhoria e otimização de processos**
 - 🌿 **Tecnologia aplicada ao serviço público**
@@ -36,7 +36,7 @@ Meu objetivo neste intercâmbio é **aprender o máximo possível sobre tecnolog
 
 <br><br>
 
-# 🚀 O que ainda vou aprender:
+## 🚀 O que ainda vou aprender:
 
 - 🐍 **Python**
 - 🗄️ **SQL**
@@ -46,7 +46,7 @@ Meu objetivo neste intercâmbio é **aprender o máximo possível sobre tecnolog
 
 <br><br>
 
-# 💡 Meu objetivo
+## 💡 Meu objetivo
 
 > **Utilizar a tecnologia para simplificar processos, reduzir tarefas manuais, diminuir erros e aumentar a eficiência do serviço público.**
 
